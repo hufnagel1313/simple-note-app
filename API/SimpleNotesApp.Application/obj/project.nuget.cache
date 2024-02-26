@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "L8tzAho/FstmbF9Rl58izCfQ8mM/KTgQsobWV2ppxsNEQPkNi6xas4ZCIirjPp6LSVdErs8KPHlU/DULvUwxwg==",
+  "dgSpecHash": "aAwPr40KPkLNQdISA5JsrGnCrRlPA8bYjPVKhvb4c39MLnNJsYG/P2HYlxSlqdRsow+IDCwv34Vi7ttMpZ/PCA==",
   "success": true,
   "projectFilePath": "/Users/thiagohufnagel/Projects/simple-note-app/API/SimpleNotesApp.Application/SimpleNotesApp.Application.csproj",
   "expectedPackageFiles": [
