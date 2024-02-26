@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "PGA0X2bzO7tyNgAv9vyJQZqT6IrbN9r+At4KWu2KSMk=",
+  "Source": "SimpleNotesApp.API",
+  "BasePath": "_content/SimpleNotesApp.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

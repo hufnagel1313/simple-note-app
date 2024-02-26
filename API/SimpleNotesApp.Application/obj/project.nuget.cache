@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "L8tzAho/FstmbF9Rl58izCfQ8mM/KTgQsobWV2ppxsNEQPkNi6xas4ZCIirjPp6LSVdErs8KPHlU/DULvUwxwg==",
+  "success": true,
+  "projectFilePath": "/Users/thiagohufnagel/Projects/simple-note-app/API/SimpleNotesApp.Application/SimpleNotesApp.Application.csproj",
+  "expectedPackageFiles": [
+    "/Users/thiagohufnagel/.nuget/packages/automapper/13.0.1/automapper.13.0.1.nupkg.sha512",
+    "/Users/thiagohufnagel/.nuget/packages/fluentvalidation/11.9.0/fluentvalidation.11.9.0.nupkg.sha512",
+    "/Users/thiagohufnagel/.nuget/packages/fluentvalidation.dependencyinjectionextensions/11.9.0/fluentvalidation.dependencyinjectionextensions.11.9.0.nupkg.sha512",
+    "/Users/thiagohufnagel/.nuget/packages/mediatr/12.2.0/mediatr.12.2.0.nupkg.sha512",
+    "/Users/thiagohufnagel/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
+    "/Users/thiagohufnagel/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "/Users/thiagohufnagel/.nuget/packages/microsoft.extensions.options/6.0.0/microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "/Users/thiagohufnagel/.nuget/packages/microsoft.extensions.primitives/6.0.0/microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "/Users/thiagohufnagel/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,7 @@
+<div class="tab-content bg-transparent">
+    <div id="note-full-container" class="note-has-grid row">
+        <div *ngFor="let note of notes" class="col-md-4 single-note-item all-category">
+            <app-note-list-item [note]="note" (deleteNote)="onNoteDeleted($event)"></app-note-list-item>
+        </div>
+    </div>
+</div>

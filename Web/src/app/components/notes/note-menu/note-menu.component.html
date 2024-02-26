@@ -1,0 +1,32 @@
+<ul class="nav nav-pills p-3 bg-white mb-3 rounded-pill align-items-center">
+    <li (click)="onLinkClick('all')" class="nav-item cursor-pointer">
+        <a class="nav-link rounded-pill note-link d-flex align-items-center px-2 px-md-3 mr-0 mr-md-2"
+           [ngClass]="{'active': selectedLabel==='all'}">
+            <fa-icon [icon]="faLayerGroup" />
+            <span class="d-none d-md-block m-l-5">All Notes</span>
+        </a>
+    </li>
+    <li (click)="onLinkClick('business')" class="nav-item">
+        <a href="javascript:void(0)" class="nav-link rounded-pill note-link d-flex align-items-center px-2 px-md-3 mr-0 mr-md-2"
+           [ngClass]="{'active': selectedLabel==='business'}">
+            <fa-icon [icon]="faBriefcase"></fa-icon>
+            <span class="d-none d-md-block m-l-5">Business</span></a>
+    </li>
+    <li (click)="onLinkClick('social')" class="nav-item">
+        <a href="javascript:void(0)" class="nav-link rounded-pill note-link d-flex align-items-center px-2 px-md-3 mr-0 mr-md-2"
+           [ngClass]="{'active': selectedLabel==='social'}">
+            <fa-icon [icon]="faShareAlt"></fa-icon>
+            <span class="d-none d-md-block m-l-5">Social</span></a>
+    </li>
+    <li (click)="onLinkClick('important')" class="nav-item">
+        <a href="javascript:void(0)" class="nav-link rounded-pill note-link d-flex align-items-center px-2 px-md-3 mr-0 mr-md-2"
+           [ngClass]="{'active': selectedLabel==='important'}">
+            <fa-icon [icon]="faTag"></fa-icon>
+            <span class="d-none d-md-block m-l-5">Important</span></a>
+    </li>
+    <li (click)="onLinkClick('new')" class="nav-item ml-auto">
+        <a href="javascript:void(0)" class="nav-link btn-primary rounded-pill d-flex align-items-center px-3 active">
+            <fa-icon [icon]="faAdd"></fa-icon>
+            <span class="d-none d-md-block font-14 m-l-5">Note</span></a>
+    </li>
+</ul>
